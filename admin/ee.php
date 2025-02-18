@@ -1,0 +1,2 @@
+<td><a href="approve.php?var=<?php echo $rows["id"];?>" class="btn btn-success"><b>Approve</b></a></td>
+	  <td><a href="reject.php?del=<?php echo $rows["id"];?>" class="btn btn-danger"><b>Reject</b></a></td>
